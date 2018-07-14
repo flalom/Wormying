@@ -56,7 +56,6 @@ fun main(args: Array<String>) {
         }
             else if (answer.toLowerCase() != "y") {
             println("You did not reply correcly, then you will continue")
-
         }
         }
 }
